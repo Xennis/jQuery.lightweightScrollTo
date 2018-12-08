@@ -4,7 +4,7 @@ Leightweight jQuery plugin to animated scrolling to anchors
 
 ### Demo and usage
 
-Demo: https://xennisblog.github.io/jQuery.lightweightScrollTo
+Demo: https://xennis.github.io/jQuery.lightweightScrollTo
 
 Exemplary usage
 
