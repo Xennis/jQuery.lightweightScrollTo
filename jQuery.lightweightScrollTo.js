@@ -25,9 +25,9 @@ jQuery.fn.lightweightScrollTo = function(options) {
 				scrollTop: target.offset().top - options.offset
 			}, options.duration, function() {
 				if (options.updateUrl) {
-					window.location.hash = anchor;					
+					window.location.hash = anchor;
 				}
 			});
 		}
-	});	
+	});
 };

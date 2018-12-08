@@ -1,0 +1,21 @@
+{
+	"name": "jquery.lightweightscrollto",
+	"description": "Leightweight jQuery plugin to animated scrolling to anchors",
+	"main": "./jQuery.lightweightScrollTo.js",
+	"keywords": [
+		"jquery",
+		"scroll",
+		"navbar",
+		"anchors",
+		"animated"
+	],
+	"author": "Xennis",
+	"homepage": "http://xennis.github.io/jQuery.lightweightScrollTo/",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Xennis/jQuery.lightweightScrollTo"
+	},
+	"dependencies": {
+		"jquery": ">=1.7"
+	}
+}
