@@ -16,7 +16,6 @@ jQuery.fn.lightweightScrollTo = function(options) {
 	}, options);
 
 	this.on('click', function(event) {
-		console.log('click');
 		var anchor = jQuery(this).attr('href');
 		var target = jQuery(anchor);
 		if (target.length) {
